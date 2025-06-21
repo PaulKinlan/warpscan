@@ -1,0 +1,18 @@
+{
+  "name": "warpscan",
+  "version": "1.0.0",
+  "description": "A Warp-scan-like web app using Vite",
+  "main": "app.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Paul Kinlan <paul@aifoc.us>",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
