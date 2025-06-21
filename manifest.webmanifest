@@ -15,8 +15,7 @@
       "src": "./src/images/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    { "src": "./src/images/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+    }
   ],
   "display": "standalone",
   "theme_color": "#00D0FF",
